@@ -1,8 +1,8 @@
 ---
 - src: geerlingguy.docker
-- src: franklinkim.mongodb
+- src: Stouts.mongodb
 - src: DavidWittman.redis
 - src: softasap.sa-neo4j
-- src: cmprescott.chrome
+- src: withmethod.google-chrome
 - src: jdauphant.sublimetext
 - src: gantsign.atom
