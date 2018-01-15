@@ -1,6 +1,8 @@
 ---
 - hosts: localhost
   become: true
+  vars:
+    - sublimetext_build:  3143
   roles:
     - geerlingguy.docker
     - DavidWittman.redis
