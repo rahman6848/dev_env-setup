@@ -4,8 +4,10 @@
   roles:
     - geerlingguy.docker
     - DavidWittman.redis
-    - franklinkim.mongodb
     - cmprescott.chrome
     - jdauphant.sublimetext
     - gantsign.atom
-    - softasap.sa-neo4j
+#    - softasap.sa-neo4j
+    - withmethod.google-chrome
+    - Stouts.mongodb
+    
