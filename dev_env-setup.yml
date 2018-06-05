@@ -3,6 +3,7 @@
   become: true
   vars:
     - sublimetext_build:  3143
+    - docker_compose_version: 1.21.0
   roles:
     - geerlingguy.docker
     - DavidWittman.redis
